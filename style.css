@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 #footer{
     width: 100%;
     height: 50px;
     line-height: 50px;
     background-color: pink;
+=======
+#header {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
+>>>>>>> development1
     text-align: center;
     color: white;
     border-radius: 6px;
